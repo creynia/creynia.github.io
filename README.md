@@ -7,13 +7,13 @@ Landing page for **Know the Odds**, a set of play-money web apps that teach casi
 | crappy | <https://creynia.github.io/crappy/> | Craps |
 | baccaratton | <https://creynia.github.io/baccaratton/> | Baccarat (Punto Banco) |
 | holdumb | <https://creynia.github.io/holdumb/> | Ultimate Texas Hold'em |
-| spinner | coming soon | Roulette |
+| spinner | <https://creynia.github.io/spinner/> | Roulette strategy lab |
 
 It is a single static `index.html` with no build step. GitHub Pages serves it from the root of `main`.
 
 ## Card art
 
-Every card ships with built-in SVG art. To replace one with a generated image, save it as `assets/<app>.webp` (for example `assets/crappy.webp`) and it appears automatically; if the file is missing, the SVG shows. To turn `spinner` into a link once it ships, change its `<div class="card soon">` to `<a class="card" href="https://creynia.github.io/spinner/">` and update the tag and call to action.
+Every card ships with built-in SVG art. To replace one with a generated image, save it as `assets/<app>.webp` (for example `assets/crappy.webp`) and it appears automatically; if the file is missing, the SVG shows.
 
 Image specs: 1600 × 1000 px (16:10), WebP, under 250 KB. Keep the subject in the middle 60% of the frame, since phones in landscape crop the top and bottom. The bottom 25% fades into the card, so keep it plain. No text, logos or real casino branding.
 
