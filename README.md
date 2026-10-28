@@ -24,6 +24,6 @@ Prompts (shared style first, then one per image):
 - **`assets/baccaratton.webp`:** "…two playing cards fanned face-up, a king of clubs and a nine of diamonds, on deep burgundy baccarat felt (#5c1a2b), a thin gold curved line, a small neat stack of gold-edged chips blurred in the background."
 - **`assets/holdumb.webp`:** "…an ace of spades and king of hearts as hole cards in the foreground, five face-down community cards softly blurred behind them, on deep navy poker felt (#0b2e4a), a short stack of gold chips to the right."
 - **`assets/spinner.webp`:** "…a polished roulette wheel from above at a slight angle, alternating red and black pockets, a single green zero, a white ball resting in a pocket, warm walnut wood and brass, against a dark brown background (#2a1a0c)."
-- **`assets/og-image.png`** (link preview, 1200 × 630, PNG): "Dark green-black background with a subtle gold vignette. Centered, a loose arrangement of two dice, two playing cards and a small roulette wheel. Generous empty space at the top for a title added later, no text, elegant and minimal."
+- **`assets/og-image.jpg`** (link preview, 1200 × 630): "Dark green-black background with a subtle gold vignette. Centered, a loose arrangement of two dice, two playing cards and a small roulette wheel. Generous empty space at the top for a title added later, no text, elegant and minimal."
 
-The social preview image is optional: if `assets/og-image.png` is missing, links just show without a picture.
+The social preview image is optional: if `assets/og-image.jpg` is missing, links just show without a picture.
