@@ -1,0 +1,45 @@
+# Know the Odds
+
+> Know the Odds (creynia's casino lab, https://creynia.com/) is a free set of learning resources and simulators by creynia for the math of casino games. Three step-by-step courses (craps, baccarat, Ultimate Texas Hold'em) go from the basics to perfect strategy with short lessons and quizzes, each paired with a real-rules table simulator that shows the expected value and house edge of every bet or decision. The roulette simulator runs betting systems such as the Martingale over thousands of simulated sessions to show their real risk. Education only: every casino game has a house edge and no betting system beats it. Each app has its own llms.txt and llms-full.txt with the full lesson text.
+
+All apps run in the browser, install on a phone, work offline, need no account and show no ads. Source code: https://github.com/creynia. Problem-gambling help (US): call or text 1-800-GAMBLER.
+
+## crappy: Craps
+
+- [crappy](https://creynia.com/crappy/): Learn craps free, from "what's a point?" to the bets worth making and the ones to skip, on a real-rules table that shows the house edge of every wager.
+- [Craps course](https://creynia.com/crappy/learn/): All craps lessons by chapter, with summaries.
+- [Craps bets and house edges](https://creynia.com/crappy/bets/): Every craps bet, lowest house edge first, with payout, edge and verdict; one page per bet.
+- [Craps glossary](https://creynia.com/crappy/glossary/): Definitions of craps terms.
+- [crappy llms.txt](https://creynia.com/crappy/llms.txt): Index of crappy's pages for LLMs.
+- [crappy llms-full.txt](https://creynia.com/crappy/llms-full.txt): Full text of every craps lesson and reference page.
+
+## baccaratton: Baccarat (Punto Banco)
+
+- [baccaratton](https://creynia.com/baccaratton/): Learn baccarat free: the third-card rule, why Banker pays a commission, and which side bets are traps, on a table that shows the EV of every bet.
+- [Baccarat course](https://creynia.com/baccaratton/learn/): All baccarat lessons by chapter, with summaries.
+- [Baccarat bets and house edges](https://creynia.com/baccaratton/bets/): Banker, Player, Tie and the side bets with payouts, exact house edges and win rates; one page per bet.
+- [Baccarat betting systems](https://creynia.com/baccaratton/systems/): The rules of 11 betting systems (Martingale, Fibonacci, Paroli and more) and why none changes the house edge.
+- [Baccarat glossary](https://creynia.com/baccaratton/glossary/): Definitions of baccarat terms.
+- [baccaratton llms.txt](https://creynia.com/baccaratton/llms.txt): Index of baccaratton's pages for LLMs.
+- [baccaratton llms-full.txt](https://creynia.com/baccaratton/llms-full.txt): Full text of every baccarat lesson and reference page.
+
+## holdumb: Ultimate Texas Hold'em
+
+- [holdumb](https://creynia.com/holdumb/): Learn Ultimate Texas Hold'em free: when to raise 4x, 2x, 1x or check, and how the Blind and Trips pay, with the EV of every decision on every street.
+- [Ultimate Texas Hold'em course](https://creynia.com/holdumb/learn/): All Ultimate Texas Hold'em lessons by chapter, with summaries.
+- [Ultimate Texas Hold'em strategy](https://creynia.com/holdumb/strategy/): The preflop 4x raise chart plus Perfect, Basic and Simple strategy rules for the flop and river.
+- [Ultimate Texas Hold'em bets and paytables](https://creynia.com/holdumb/bets/): Ante, Blind, Play and Trips, with the Blind paytable and five Trips paytables and their house edges.
+- [Ultimate Texas Hold'em glossary](https://creynia.com/holdumb/glossary/): Definitions of Ultimate Texas Hold'em terms.
+- [holdumb llms.txt](https://creynia.com/holdumb/llms.txt): Index of holdumb's pages for LLMs.
+- [holdumb llms-full.txt](https://creynia.com/holdumb/llms-full.txt): Full text of every Ultimate Texas Hold'em lesson and reference page.
+
+## spinner: Roulette strategy lab
+
+- [spinner](https://creynia.com/spinner/): Build a roulette betting system (Martingale, Fibonacci, James Bond or your own rules), run it over thousands of seeded simulated sessions, and see the average result, bust risk and drawdowns.
+- [Roulette strategies](https://creynia.com/spinner/strategies/): Simulated results for common roulette betting systems (flat, Martingale, Fibonacci, d'Alembert, Labouchere, James Bond), 10,000 sessions of up to 500 spins each on a European wheel.
+- [spinner llms.txt](https://creynia.com/spinner/llms.txt): Index of spinner's pages for LLMs.
+- [spinner llms-full.txt](https://creynia.com/spinner/llms-full.txt): Full text of every spinner strategy page.
+
+## About
+
+- [About Know the Odds](https://creynia.com/about/): Who makes the apps, what they are for, and the education-only, play-money stance.
