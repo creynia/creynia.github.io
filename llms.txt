@@ -1,6 +1,6 @@
 # Know the Odds
 
-> Know the Odds (creynia's casino lab, https://creynia.com/) is a set of free, play-money web apps by creynia that teach casino games from zero to perfect strategy. The lesson apps (craps, baccarat, Ultimate Texas Hold'em) pair short lessons and quizzes with a real-rules practice table that shows the expected value and house edge of every bet or decision. The roulette app is a strategy lab that runs betting systems over thousands of simulated sessions. Education only: every casino game has a house edge and no betting system beats it. Each app has its own llms.txt and llms-full.txt with the full lesson text.
+> Know the Odds (creynia's casino lab, https://creynia.com/) is a free set of learning resources and simulators by creynia for the math of casino games. Three step-by-step courses (craps, baccarat, Ultimate Texas Hold'em) go from the basics to perfect strategy with short lessons and quizzes, each paired with a real-rules table simulator that shows the expected value and house edge of every bet or decision. The roulette simulator runs betting systems such as the Martingale over thousands of simulated sessions to show their real risk. Education only: every casino game has a house edge and no betting system beats it. Each app has its own llms.txt and llms-full.txt with the full lesson text.
 
 All apps run in the browser, install on a phone, work offline, need no account and show no ads. Source code: https://github.com/creynia. Problem-gambling help (US): call or text 1-800-GAMBLER.
 
