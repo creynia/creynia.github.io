@@ -8,7 +8,10 @@ All apps run in the browser, install on a phone, work offline, need no account a
 
 - [crappy](https://creynia.com/crappy/): Learn craps free, from "what's a point?" to the bets worth making and the ones to skip, on a real-rules table that shows the house edge of every wager.
 - [Craps course](https://creynia.com/crappy/learn/): All craps lessons by chapter, with summaries.
-- [Craps bets and house edges](https://creynia.com/crappy/bets/): Every craps bet, lowest house edge first, with payout, edge and verdict; one page per bet.
+- [Craps odds chart](https://creynia.com/crappy/bets/): Every craps bet with payout, true odds, chance to win and house edge, lowest edge first; one page per bet.
+- [Best and worst craps bets](https://creynia.com/crappy/best-and-worst-bets/): The lowest-edge bets and the sucker bets, ranked by house edge per bet and per roll.
+- [Craps odds bet and house edge](https://creynia.com/crappy/odds-bet-house-edge/): Combined house edge of Pass and Don't Pass with 1x to 100x odds, including 3-4-5x.
+- [Craps dice probability](https://creynia.com/crappy/dice-probability/): The 36 dice combinations, the odds of every total, of a 7, of making each point and of the hardways.
 - [Craps glossary](https://creynia.com/crappy/glossary/): Definitions of craps terms.
 - [crappy llms.txt](https://creynia.com/crappy/llms.txt): Index of crappy's pages for LLMs.
 - [crappy llms-full.txt](https://creynia.com/crappy/llms-full.txt): Full text of every craps lesson and reference page.
@@ -17,8 +20,10 @@ All apps run in the browser, install on a phone, work offline, need no account a
 
 - [baccaratton](https://creynia.com/baccaratton/): Learn baccarat free: the third-card rule, why Banker pays a commission, and which side bets are traps, on a table that shows the EV of every bet.
 - [Baccarat course](https://creynia.com/baccaratton/learn/): All baccarat lessons by chapter, with summaries.
+- [Baccarat odds: Banker vs Player](https://creynia.com/baccaratton/odds/): Win rates and house edges of Banker, Player and Tie, the commission explained, and odds by number of decks.
+- [Baccarat third-card rule](https://creynia.com/baccaratton/third-card-rule/): The Player and Banker drawing rules as charts, and how often each case happens.
 - [Baccarat bets and house edges](https://creynia.com/baccaratton/bets/): Banker, Player, Tie and the side bets with payouts, exact house edges and win rates; one page per bet.
-- [Baccarat betting systems](https://creynia.com/baccaratton/systems/): The rules of 11 betting systems (Martingale, Fibonacci, Paroli and more) and why none changes the house edge.
+- [Does Martingale work in baccarat?](https://creynia.com/baccaratton/systems/): The rules and exact hourly cost of betting systems such as Martingale, Fibonacci and Paroli, and why none changes the house edge.
 - [Baccarat glossary](https://creynia.com/baccaratton/glossary/): Definitions of baccarat terms.
 - [baccaratton llms.txt](https://creynia.com/baccaratton/llms.txt): Index of baccaratton's pages for LLMs.
 - [baccaratton llms-full.txt](https://creynia.com/baccaratton/llms-full.txt): Full text of every baccarat lesson and reference page.
@@ -27,7 +32,8 @@ All apps run in the browser, install on a phone, work offline, need no account a
 
 - [holdumb](https://creynia.com/holdumb/): Learn Ultimate Texas Hold'em free: when to raise 4x, 2x, 1x or check, and how the Blind and Trips pay, with the EV of every decision on every street.
 - [Ultimate Texas Hold'em course](https://creynia.com/holdumb/learn/): All Ultimate Texas Hold'em lessons by chapter, with summaries.
-- [Ultimate Texas Hold'em strategy](https://creynia.com/holdumb/strategy/): The preflop 4x raise chart plus Perfect, Basic and Simple strategy rules for the flop and river.
+- [Ultimate Texas Hold'em strategy chart](https://creynia.com/holdumb/strategy/): When to raise 4x preflop, 2x on the flop, and 1x or fold on the river; Perfect, Basic and Simple strategies.
+- [Ultimate Texas Hold'em house edge and odds](https://creynia.com/holdumb/house-edge/): The exact house edge and element of risk, the cost of simpler strategies, Trips paytable edges and final-hand odds.
 - [Ultimate Texas Hold'em bets and paytables](https://creynia.com/holdumb/bets/): Ante, Blind, Play and Trips, with the Blind paytable and five Trips paytables and their house edges.
 - [Ultimate Texas Hold'em glossary](https://creynia.com/holdumb/glossary/): Definitions of Ultimate Texas Hold'em terms.
 - [holdumb llms.txt](https://creynia.com/holdumb/llms.txt): Index of holdumb's pages for LLMs.
