@@ -163,6 +163,7 @@
       <h2>What it is</h2>
       <p>Each app teaches one game from zero to perfect strategy. The lesson apps pair short lessons and quizzes with a real-rules practice table that shows the expected value (EV) and house edge of every bet or decision before you confirm it. The roulette app is a strategy lab: you build a betting system and run it over thousands of simulated sessions to see what it really does.</p>
       <p>Everything runs in your browser. The apps install on your phone, work offline, need no account and show no ads. Your progress stays on your device (spinner can optionally sync to a hidden folder in your own Google Drive).</p>
+      <p>The site counts anonymous page views with <a href="https://www.goatcounter.com/">GoatCounter</a>: no cookies, no identifiers and no tracking across sites, and nothing is counted if your browser sends Do Not Track or Global Privacy Control.</p>
 
       <h2>The apps</h2>
       <ul class="apps">
@@ -189,5 +190,16 @@
     <p><strong>For education only, with play money only.</strong> The house always has an edge, and no betting system changes that. These apps show how big the edge is, not how to beat it.</p>
     <p><a href="/">Know the Odds</a> · <a href="/crappy/">Craps</a> · <a href="/baccaratton/">Baccarat</a> · <a href="/holdumb/">Ultimate Texas Hold'em</a> · <a href="/spinner/">Roulette</a> · <a href="https://github.com/creynia">GitHub</a></p>
   </footer>
+<!-- Anonymous, cookieless page-view count via GoatCounter (README: Analytics). -->
+<script>
+  (function () {
+    var n = navigator, l = location;
+    if (l.protocol !== 'https:' || !/^(www\.)?creynia\.com$/.test(l.hostname)) return;
+    if (n.webdriver || n.doNotTrack === '1' || n.globalPrivacyControl === true) return;
+    var q = new URLSearchParams({ p: l.pathname, t: document.title, s: String(screen.width) });
+    try { if (document.referrer && new URL(document.referrer).origin !== l.origin) q.set('r', document.referrer); } catch (e) {}
+    new Image().src = 'https://creynia.goatcounter.com/count?' + q;
+  })();
+</script>
 </body>
 </html>
