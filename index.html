@@ -481,5 +481,16 @@
     <p>If gambling is hurting you or someone you know, call or text <strong>1-800-GAMBLER</strong> (US), or contact your national problem-gambling helpline.</p>
     <p><a href="/about/">About Know the Odds</a> · <a href="https://github.com/creynia">github.com/creynia</a></p>
   </footer>
+<!-- Anonymous, cookieless page-view count via GoatCounter (README: Analytics). -->
+<script>
+  (function () {
+    var n = navigator, l = location;
+    if (l.protocol !== 'https:' || !/^(www\.)?creynia\.com$/.test(l.hostname)) return;
+    if (n.webdriver || n.doNotTrack === '1' || n.globalPrivacyControl === true) return;
+    var q = new URLSearchParams({ p: l.pathname, t: document.title, s: String(screen.width) });
+    try { if (document.referrer && new URL(document.referrer).origin !== l.origin) q.set('r', document.referrer); } catch (e) {}
+    new Image().src = 'https://creynia.goatcounter.com/count?' + q;
+  })();
+</script>
 </body>
 </html>

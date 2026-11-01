@@ -28,6 +28,10 @@ The site lives at <https://creynia.com/> (`CNAME`; `creynia.github.io` redirects
 
 When you add an app: add its card and `ItemList` entry in `index.html`, its section in `llms.txt`, its `Sitemap:` line in `robots.txt`, and an `assets/og/<app>.jpg`.
 
+## Analytics
+
+Every page ends with a tiny inline script that sends one cookieless page-view count to [GoatCounter](https://www.goatcounter.com/) (`https://creynia.goatcounter.com`, the site shared with all the apps), as an image request with the path, title, screen width and an external referrer. It does nothing off `https://creynia.com`, in automated browsers, or with Do Not Track or Global Privacy Control. `404.html` counts as `404/<path>` so broken links show up. Each app counts its own pages and events; see `docs/analytics.md` in each app repo.
+
 ## Card art
 
 Every card ships with built-in SVG art. To replace one with a generated image, save it as `assets/<app>.webp` (for example `assets/crappy.webp`) and it appears automatically; if the file is missing, the SVG shows.
