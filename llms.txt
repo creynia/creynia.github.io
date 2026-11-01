@@ -43,6 +43,10 @@ All apps run in the browser, install on a phone, work offline, need no account a
 
 - [spinner](https://creynia.com/spinner/): Build a roulette betting system (Martingale, Fibonacci, James Bond or your own rules), run it over thousands of seeded simulated sessions, and see the average result, bust risk and drawdowns.
 - [Roulette strategies](https://creynia.com/spinner/strategies/): Simulated results for common roulette betting systems (flat, Martingale, Fibonacci, d'Alembert, Labouchere, James Bond), 10,000 sessions of up to 500 spins each on a European wheel.
+- [Roulette betting-system research](https://creynia.com/spinner/research/): Can a roulette betting system beat the house? Ten chapters of simulation research with the data behind every chart.
+- [Does the Martingale work in roulette?](https://creynia.com/spinner/research/martingale/): Why doubling feels like it works, and what 10,000 simulated sessions show.
+- [Roulette house edge: European vs American](https://creynia.com/spinner/research/edge/): The exact house edge of every bet on European, American and triple-zero wheels.
+- [Sources](https://creynia.com/spinner/sources/): The references behind spinner's math and research.
 - [spinner llms.txt](https://creynia.com/spinner/llms.txt): Index of spinner's pages for LLMs.
 - [spinner llms-full.txt](https://creynia.com/spinner/llms-full.txt): Full text of every spinner strategy page.
 
